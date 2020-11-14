@@ -1,6 +1,8 @@
 ### 👋 Hi there, I'm Geoffrey. 
 ### 📫 Software Developer from Belgium. Living in Helsinki, Finland. 
-
+### 👯 Student at Haaga-Helia.
+<br />
+<br />
 <a href="https://www.linkedin.com/in/geoffrey-thielman-49637513a/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
